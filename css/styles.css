@@ -1,0 +1,127 @@
+/*
+    green: #48AC98
+    background: #f0f5f9
+    dark: #1E2022
+    white: #f0f5f9
+*/
+
+body {
+    font-family: 'Raleway';
+    text-align: center;
+    /* background-color: #f0f5f9;
+    color: #1E1E1E; */
+    margin: 0px;
+}
+
+p {
+    margin: 0;
+}
+
+
+.container-fluid {
+    padding: 2% 0;
+    /* text-align: center; */
+}
+
+/*************************** Navbar ***************************/
+
+#header {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#header .container-fluid {
+    margin-top: 0;
+    text-align: left;
+    width: 80%;
+}
+
+.navbar {
+    padding: 0 0 2rem;
+}
+
+.navbar-brand {
+    margin: 1.1em 0;
+    padding: 0;
+}
+
+.nav-link{
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.nav-link:hover{
+    color: #48AC98;
+}
+
+.nav-item {
+    padding: 0 30px;
+}
+
+.hover-image, .navbar-brand:hover .normal-image {
+    display: none;
+}
+
+.navbar-brand:hover .hover-image {
+    display: inline;
+}
+
+
+/*************************** Summary ***************************/
+
+.summary{
+    padding: 5% 10%;
+}
+
+.summary h1{
+    text-align: left;
+}
+
+/*************************** Projects ***************************/
+
+.light-gray-banner{
+    background-color: #f0f5f9;
+    color: #1E1E1E;
+    margin: 0;
+    /* width: 90%; */
+    padding: 5% 0;
+}
+
+/*************************** Footer ***************************/
+
+#footer {
+    text-align: left;
+    background-color: #000000;
+    color: #ffffff;
+    margin: 0;
+    padding: 6% 10% 2%;
+}
+
+.footer-link {
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+.footer-link:hover{
+    color: #48AC98;
+}
+
+#footer .navbar-brand{
+    margin: 0;
+}
+
+.social-buttons{
+    display: inline-block;
+    float: right;
+}
+
+.copyright {
+    /* color: #f0f5f9; */
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 10% 0 1%;  
+}

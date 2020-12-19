@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="logo_black.svg"
+   viewBox="0 0 29 30"
+   height="30"
+   width="29"
+   id="svg10"
+   version="1.1">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14">
+    <clipPath
+       id="clipPath32"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="2"
+         x="3.2134246e-09"
+         height="60"
+         width="58"
+         id="rect34"
+         style="fill:#ffff00;stroke-width:0.55365" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="g18"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="-6"
+     inkscape:cy="31.162794"
+     inkscape:cx="33.413247"
+     inkscape:zoom="7.1313455"
+     showgrid="true"
+     id="namedview12"
+     inkscape:window-height="698"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <inkscape:grid
+       originy="-2"
+       originx="-1.6067123e-09"
+       id="grid24"
+       type="xygrid"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <g
+     transform="translate(0,-2)"
+     id="g18"
+     inkscape:label="Image"
+     inkscape:groupmode="layer">
+    <image
+       transform="matrix(0.5,0,0,0.5,0,1)"
+       clip-path="url(#clipPath32)"
+       id="image20"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAANdJREFU
+eJzt2jEKg1AQAFENuf+VkzZFRI2ah/yZykJkGBZX0WmKsZk/jl/M4jfm9VPWeZxxkTtTAC2gKYAW
+0Dw3nHPK3fYAl26n4SegAFpAUwAtoNmyBZa427vDV4afgAJoAU0BtIDmyBZYYu+7A90mw09AAbSA
+pgBaQFMALaApgBbQFEALaAqgBTQF0AKaAmgBTQG0gKYAWkBTAC2gueK7wK2+Gg8/AQXQApoCaAHN
+kS3wzz9IL9ssw09AAbSApgBaQLNlC9zq2X4vw09AAbSApgBaIMLyBv9EB4G3N6zGAAAAAElFTkSu
+QmCC
+"
+       preserveAspectRatio="none"
+       height="64"
+       width="64" />
+  </g>
+</svg>

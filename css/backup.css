@@ -1,0 +1,160 @@
+/*
+    green: #48AC98
+    background: #f0f5f9
+    dark: #1E2022
+    white: #f0f5f9
+*/
+
+body {
+    font-family: 'Raleway';
+    text-align: center;
+    background-color: #f0f5f9;
+    /* color: #1e2022; */
+    color: #1E1E1E;
+    margin: 0px;
+}
+
+h1 {
+    /* color: #48AC98; */
+    font-family: 'Montserrat';
+    font-size: 2rem;
+}
+
+h2 {
+    color: #48AC98;
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #c9d6df;
+    border-width: 0.5rem;
+    width: 10%;
+    margin: 100px auto;
+}
+
+.container-fluid {
+    margin: 3% auto;
+    width: 60%;
+}
+
+/*************************** Navbar ***************************/
+
+#header .container-fluid {
+    margin-top: 0;
+    text-align: left;
+    width: 80%;
+}
+
+.navbar {
+    padding: 0 0 2rem;
+}
+
+.navbar-brand {
+    margin: 1.1em 0;
+}
+
+.nav-link{
+    color: #1E1E1E;
+    font-size: 1rem;
+    /* font-weight: 300; */
+}
+
+.nav-item {
+    padding: 0 10px;
+}
+
+
+/*************************** Title ***************************/
+
+.profile{
+    margin: 30px auto;
+    width: 90%;
+}
+
+.portrait {
+    margin: 20px;
+    max-width: 20%;
+    height: auto;
+}
+
+/*************************** Skills ***************************/
+
+.skill-row {
+    line-height: 1.5;
+    margin: 2rem auto;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+.skill-img {
+    width: 20%;
+    filter: invert(7%) sepia(6%) saturate(1042%) hue-rotate(169deg) brightness(91%) contrast(87%);
+}
+
+.code {
+    float: left;
+    margin-right: 1.5rem;
+}
+
+.music {
+    float: right;
+    margin-left: 1.5rem;
+}
+
+.physics {
+    float: left;
+    margin-right: 1.5rem;
+}
+
+/*************************** Footer ***************************/
+
+#footer {
+    background-color: #48AC98;
+    margin: 30px 0 0 0;
+    padding: 2% 10%;
+}
+
+.footer-link {
+    color: #1E1E1E;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+.footer-link:hover{
+    color: #f0f5f9;
+}
+
+.copyright {
+    color: #f0f5f9;
+    padding: 5% 0;
+}
+
+/*************************** BUTTON ***************************/
+
+/* .btn {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: small;
+    font-weight: 100;
+    padding: 8px;
+    background-color: #48AC98;
+    margin-top: 50px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #6DC2B1;
+ } */
